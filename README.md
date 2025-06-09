@@ -9,6 +9,8 @@
 ------------------------
 
 <div align="center">
+    <a href="https://wakatime.com/badge/user/4d7cba27-356c-4898-8644-d8131f277db0/project/f69ba39c-4538-4034-a902-43ecc1286f83"><img src="https://wakatime.com/badge/user/4d7cba27-356c-4898-8644-d8131f277db0/project/f69ba39c-4538-4034-a902-43ecc1286f83.svg" alt="wakatime"></a>
+  
 Desarrollo Backend: 
        <p></p>
 <p align="">
